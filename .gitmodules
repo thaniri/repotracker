@@ -1,0 +1,12 @@
+[submodule "repotracker-app"]
+	path = repotracker-app
+	url = git@github.com:thaniri/repotracker-app.git
+[submodule "repotracker-ansible"]
+	path = repotracker-ansible
+	url = git@github.com:thaniri/repotracker-ansible.git
+[submodule "repotracker-terraform"]
+	path = repotracker-terraform
+	url = git@github.com:thaniri/repotracker-terraform.git
+[submodule "repotracker-db"]
+	path = repotracker-db
+	url = git@github.com:thaniri/repotracker-db.git
