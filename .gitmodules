@@ -1,12 +1,16 @@
 [submodule "repotracker-app"]
 	path = repotracker-app
 	url = git@github.com:thaniri/repotracker-app.git
+	branch = master
 [submodule "repotracker-ansible"]
 	path = repotracker-ansible
 	url = git@github.com:thaniri/repotracker-ansible.git
+	branch = master
 [submodule "repotracker-terraform"]
 	path = repotracker-terraform
 	url = git@github.com:thaniri/repotracker-terraform.git
+	branch = master
 [submodule "repotracker-db"]
 	path = repotracker-db
 	url = git@github.com:thaniri/repotracker-db.git
+	branch = master
