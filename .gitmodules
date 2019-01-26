@@ -10,7 +10,7 @@
 	path = repotracker-terraform
 	url = git@github.com:thaniri/repotracker-terraform.git
 	branch = master
-[submodule "repotracker-db"]
-	path = repotracker-db
-	url = git@github.com:thaniri/repotracker-db.git
-	branch = master
+#[submodule "repotracker-db"]
+#	path = repotracker-db
+#	url = git@github.com:thaniri/repotracker-db.git
+#	branch = master
