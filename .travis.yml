@@ -2,6 +2,6 @@ language: go
 go:
   - '1.12.x'
   - master
-script
+script:
   - go test ./app/...
 
